@@ -1,3 +1,7 @@
+-- Task #2: SQL queries
+-- Author: Alena Dutova
+-- DB: PostgreSQL
+
 -- ============================================
 -- Query A: Statistics by country
 -- ============================================
